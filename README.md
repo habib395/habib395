@@ -1,7 +1,7 @@
 ![Web Developer](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/475855300_640397421796223_3249811089031694905_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=VD8IDJib2j8Q7kNvgEwUtWW&_nc_oc=AdhBrFBJKjg1R8Q3Ru_RxYFSG5_VtgUeLHYEQ76UMFsweyCadj3sc1QJFIcGz0Sg1xc&_nc_zt=23&_nc_ht=scontent.fdac5-1.fna&_nc_gid=AE9HcLvpcz3CRg24QMBJQa_&oh=00_AYBEMPQN7wKSmH8fI7jv-5dCxp2oxASH-xQ8X_XOjVZ9iA&oe=67A8B20B)
 
 ### Hi there 👋, I'm Md. Habibur Rahman
-#### Web Developer
+#### Frontend Web Developer
 
 🚀 Passionate Full Stack Developer with experience in building web applications using modern technologies.  
 💡 Always learning new frameworks and contributing to open-source projects.  
@@ -9,7 +9,7 @@
 
 Skills: REACT / JS / HTML / CSS/ BOOTSTRAP/ DBMS
 
-- 🔭 I’m currently working on Taqiyah 
+- 🔭 I’m currently working on Taqiyah Website. 
 - 🌱 I’m currently learning Next.js  
 - 👯 I’m looking to collaborate on exciting web development projects.   
 - 💬 Ask me about Web Development 
