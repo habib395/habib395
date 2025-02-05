@@ -25,8 +25,6 @@ Skills: REACT / JS / HTML / CSS/ BOOTSTRAP/ DBMS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/habib395)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.habibur.rahman.sujon.788802) 
 
 <div align="center">
-
-  ### 📊 GitHub Stats
   
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=habib395&show_icons=true" alt="GitHub Stats" width="45%">
